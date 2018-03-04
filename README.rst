@@ -1,15 +1,15 @@
 CosmicPy
 ========
 
-.. image:: https://pypip.in/download/cosmicpy/badge.svg
+.. image:: https://img.shields.io/pypi/dm/cosmicpy.svg
     :target: https://pypi.python.org/pypi/cosmicpy/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/cosmicpy/badge.svg
+.. image:: https://img.shields.io/pypi/v/cosmicpy.svg
     :target: https://pypi.python.org/pypi/cosmicpy/
     :alt: Latest Version
 
-.. image:: https://pypip.in/status/cosmicpy/badge.svg
+.. image:: https://img.shields.io/pypi/status/cosmicpy.svg
     :target: https://pypi.python.org/pypi/cosmicpy/
     :alt: Development Status
 
